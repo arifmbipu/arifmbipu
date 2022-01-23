@@ -1,7 +1,5 @@
 ### Hi there 👋, my name is Arif Mahmud
 #### WordPress & Back-end Developer
-![WordPress & Back-end Developer](https://scontent.frjh1-1.fna.fbcdn.net/v/t39.30808-6/272123205_104184602175110_548350157879586364_n.png?_nc_cat=111&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeEjAs2kuIo7H3DaZYBmk_bH0_JzdKX_nN7T8nN0pf-c3kNu28OcIFr7o-CgOIBIcDpUq6NjCyaCi_oHCXpnKJKn&_nc_ohc=0XIYKQJpXR8AX9RHiCJ&_nc_ht=scontent.frjh1-1.fna&oh=00_AT92jtDToKmoELVARbY-D0fTOf_sq6GQBhZzPbDe1VTyDA&oe=61F2C570)
-
 Experienced Web Developer with a demonstrated history of working in the internet industry. Skilled in PHP, WordPress, Databases, Digital Marketing, and Microsoft Office. Strong engineering professional with a Bachelor of Business Administration - BBA focused in Finance, General from Pundra University of Science and Technology. 
 
 Skills: JS / HTML / CSS / Bootstrap / PHP / WordPress
