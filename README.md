@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Arif Mahmud
-#### WordPress & Back-end Developer
+#### Fullstack Web Developer
 Experienced Web Developer with a demonstrated history of working in the internet industry. Skilled in PHP, WordPress, Databases, Digital Marketing, and Microsoft Office. Strong engineering professional with a Bachelor of Business Administration - BBA focused in Finance, General from Pundra University of Science and Technology. 
 
 Skills: JS / HTML / CSS / Bootstrap / PHP / WordPress
