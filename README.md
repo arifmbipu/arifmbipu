@@ -2,6 +2,8 @@
 #### Fullstack Web Developer
 Experienced Web Developer with a demonstrated history of working in the internet industry. Skilled in PHP, WordPress, Databases, Digital Marketing, and Microsoft Office. Strong engineering professional with a Bachelor of Business Administration - BBA focused in Finance, General from Pundra University of Science and Technology. 
 
+![Profile views](https://gpvc.arturio.dev/arifmbipu)  
+
 Skills: JS / HTML / CSS / Bootstrap / PHP / WordPress
 
 - 🔭 I’m currently working on Fiverr 
@@ -26,5 +28,3 @@ Skills: JS / HTML / CSS / Bootstrap / PHP / WordPress
 ![GitHub metrics](https://metrics.lecoq.io/arifmbipu)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=arifmbipu)  
-
-![Profile views](https://gpvc.arturio.dev/arifmbipu)  
