@@ -1,16 +1,16 @@
 ### Hi there 👋, my name is Arif Mahmud
 #### Fullstack Web Developer
-Experienced Web Developer with a demonstrated history of working in the internet industry. Skilled in PHP, WordPress, Databases, Digital Marketing, and Microsoft Office. Strong engineering professional with a Bachelor of Business Administration - BBA focused in Finance, General from Pundra University of Science and Technology. 
+Experienced Web Developer with a demonstrated history of working in the internet industry. Skilled in JS, PHP, WordPress, Databases, Digital Marketing, and Microsoft Office. Strong engineering professional with a Bachelor of Business Administration - BBA focused in Finance, General from Pundra University of Science and Technology. 
 
 ![Profile views](https://gpvc.arturio.dev/arifmbipu)  
 
 Skills: JS / HTML / CSS / Bootstrap / PHP / WordPress
 
-- 🔭 I’m currently working on Fiverr 
-- 🌱 I’m currently learning PHP 
+- 🔭 I’m currently working at Fiverr as a freelancer
+- 🌱 I’m currently learning JS, PHP
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Web Development 
-- 📫 How to reach me: https://arifmahmud.xyz 
+- 📫 How to reach me: https://www.facebook.com/arifmahmudbipu21 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/arifmbipu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/arifmahmudbipu21)  [<img
