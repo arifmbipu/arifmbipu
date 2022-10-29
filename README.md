@@ -13,7 +13,7 @@ Skills: JS / HTML / CSS / Bootstrap / PHP / WordPress
 - 📫 How to reach me: https://www.facebook.com/arifmahmudbipu21 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' style="color: white">](https://github.com/arifmbipu) [<img
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/arifmbipu) [<img
 src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/fiverr.svg' alt='fiverr' height='40'>](https://fiverr.com/arifmahmudbipu) [<img
 src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/arif_m_bipu)
 
