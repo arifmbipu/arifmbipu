@@ -23,7 +23,7 @@ src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='li
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arifmbipu)](https://github.com/anuraghazra/github-readme-stats) -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=arifmbipu&show_icons=true)  
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=arifmbipu&show_icons=true)   -->
 
 ![GitHub metrics](https://metrics.lecoq.io/arifmbipu)  
 
